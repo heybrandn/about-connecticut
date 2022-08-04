@@ -7,4 +7,4 @@ This is a basic landing page for CT touristts
 
 ### HTML and CSS
 
-#### Live Website at https://brandn.tech
+#### Live Website at https://heybrandn.github.io/about-connecticut/
