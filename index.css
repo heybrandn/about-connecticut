@@ -1,0 +1,95 @@
+body {
+    font-family: 'Exo 2', sans-serif;   
+    color: white;
+    background: linear-gradient(#e66465, #9198e5););
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#header {
+    text-align: center;
+    margin-top: 10px;
+    text-shadow: 0 0 4px black;
+}
+
+#info {
+    text-align: center;
+    text-shadow: 0 0 4px black;
+}
+
+.imgs {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    height: 250px;
+    object-fit: cover;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+#PG {
+    text-align: center;
+    justify-content: space-around;
+    align-content: center;
+    width: 200px;
+    background-image: url("images/games.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0 0 4px black;
+    border-radius: 50%;
+    padding-top: 35px;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+#EF {
+    text-align: center;
+    justify-content: space-between;
+    align-content: center;
+    width: 200px;
+    background-image: url("images/restaurant.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0 0 4px black;
+    border-radius: 50%;
+    padding-top: 35px;
+}
+
+#HF {
+    text-align: center;
+    justify-content: space-between;
+    align-content: center;
+    width: 200px;
+    background-image: url("images/stadium.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0 0 4px black;
+    border-radius: 50%;
+    padding-top: 35px;
+    margin-right: 40px;
+}
+
+#PG:hover, #EF:hover, #HF:hover {
+    color: black;
+}
+
+#text {
+    text-align: center;
+    text-shadow: 0 0 4px black;
+}
+
+a {
+    color: white;
+}
+
+a:link { 
+    color: white;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: black;
+}
