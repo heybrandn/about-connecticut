@@ -76,7 +76,7 @@ body {
     color: black;
 }
 
-#text {
+.text {
     text-align: center;
     text-shadow: 0 0 4px black;
 }
